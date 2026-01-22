@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import "./firebase";
+import "./firebase-";
 import IncomeExpense from './pages/IncomeExpense';
 import { ProtectedRoute } from './components/protectedRoute';
 
